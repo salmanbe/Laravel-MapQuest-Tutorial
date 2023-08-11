@@ -11,10 +11,10 @@
 
 This is the source code of Laravel Map Quest video tutorial available on youtube. This tutorial uses Laravel, salmanbe/mapquest plugin, bootstrap 5.
 
-- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=S0qK0HYcLjw).
+- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=hirKLcEJ1U4).
 - [Visit youtube channel](https://www.youtube.com/@SCTechStudio).
 - [Visit author's website](https://www.salman.be).
-- [Laravel Map Quest plugin credit](https://github.com/salmanbe).
+- [Laravel Map Quest plugin credit](https://github.com/salmanbe/mapquest).
 
 ## Tutorial Technologies
 
